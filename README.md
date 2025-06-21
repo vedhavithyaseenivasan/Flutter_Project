@@ -45,8 +45,8 @@ To run the project locally:
 - Clone the repository
 
   ```bash
-  git clone https://github.com/vedhavithyaseenivasan/.git
-  cd
+  https://github.com/vedhavithyaseenivasan/Flutter_Project.git
+  cd Flutter_Project
   ```
   
 - Install packages
