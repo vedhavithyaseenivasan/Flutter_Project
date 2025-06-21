@@ -63,7 +63,7 @@ To run the project locally:
 
 ---
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - 🔍 Search and filter quotes by category or author
 
