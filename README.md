@@ -19,7 +19,7 @@ The **Quotes Generator** is a sleek and responsive mobile application developed 
 | Layer       | Technology                         |
 |-------------|-------------------------------------|
 | **Frontend**| Flutter (Dart)                      |
-| **API**     | [Quotable.io](https://api.quotable.io) / [Type.fit](https://type.fit/api/quotes) |
+| **API**     | [Quotable.io](https://api.quotable.io) |
 | **State**   | setState / Provider *(customizable)* |
 | **Sharing** | share_plus package                  |
 
