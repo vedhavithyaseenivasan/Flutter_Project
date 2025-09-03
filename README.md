@@ -76,4 +76,3 @@ To run the project locally:
 
 The Quotes Generator Flutter App serves as a simple yet impactful tool to deliver inspiration and positivity through beautifully presented quotes. Built using Flutter and Dart, the app demonstrates clean UI practices, API integration, and interactive features like sharing functionality. It is a perfect project to showcase your skills in mobile development, RESTful API handling, and Flutter-based UI design.
 
-
