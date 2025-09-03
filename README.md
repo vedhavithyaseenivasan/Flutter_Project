@@ -60,7 +60,6 @@ To run the project locally:
    ```bash
   flutter run
   ```
-
 ---
 
 ## 🔮 Future Enhancements
